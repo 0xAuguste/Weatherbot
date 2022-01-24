@@ -6,10 +6,10 @@ from threading import Timer
 
 current_time=datetime.today() #get current date and time
 
-CONSUMER_KEY = 'cEmLATBDtoPhdqX9wYlJIn9e2'
-CONSUMER_SECRET = 'fdMaPGTZOFQyQ9PpZ6Cs58jQDCE5AyEo4hx5sQul8Pk5oAO2nW'
-ACCESS_TOKEN = '947007559600189440-6fIju6enjKJTfeMEnl3kebSMeKexhES'
-ACCESS_SECRET = 'L1zAL3Y3EvQZB004rRAcVRcDPkpprj3ArsgnyZS65nGbF'
+CONSUMER_KEY = #[INPUT]
+CONSUMER_SECRET = #[INPUT]
+ACCESS_TOKEN = #[INPUT]
+ACCESS_SECRET = #[INPUT]
 
 
 # configure our access information for reaching Twitter
