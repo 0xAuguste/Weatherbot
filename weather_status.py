@@ -7,7 +7,7 @@ City ID is for Albany, CA.
 import requests
 import json
 import datetime
-r = requests.get('http://api.openweathermap.org/data/2.5/weather?id=5322850&units=imperial&APPID=050594fa21a568b5e08cc7a197207484')
+r = requests.get('http://api.openweathermap.org/data/2.5/weather?id=5322850&units=imperial&APPID=[INPUT_ID]')
 r_json = r.json()
 main = r_json.get('main')
 sys = r_json.get('sys')
